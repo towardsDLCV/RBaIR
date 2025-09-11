@@ -13,7 +13,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046" target='_blank'>IEEE TMM 2025</a> •
+        • <a href="https://github.com/towardsDLCV/RBaIR" target='_blank'>ArXiv</a> •
     </h4>
 </div>
 
@@ -24,3 +24,7 @@
 </div>
 
 </div>
+
+>Recent advancements in all-in-one Image Restoration (IR) have shown great promise, yet existing methods are often constrained by fixed parameters and struggle with the addition of new degradation types. In this paper, we propose RBaIR (Radial Basis Attention Image Restoration), a novel universal restoration network that significantly enhances feature efficiency and restoration performance across multiple degradations. Specifically, we design the Dynamic Radial Basis Attention (DyRBA) module, which decouples inter-channel dependencies using a Radial Basis Function Network (RBFN) to maximize feature independence. DyRBA also incorporates a data-dependent cross-attention mechanism for flexible and efficient spatial feature exploration. Then, to mitigate the attention dilution issue in attention-based models, we introduce a Mixture of Convolutional Experts (MoCE). The MoCE captures a diverse set of local and depth-dependent patterns through its multi-kernel design. Finally, we improve model generalization by introducing specialized loss functions, including the Kullback–Leibler Divergence (KLD) loss. Extensive experiments demonstrate that RBaIR achieves state-of-the-art performance, outperforming existing methods in both all-in-one and single-task restoration settings with fewer parameters.
+
+
