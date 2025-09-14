@@ -39,7 +39,7 @@ The testing data should be placed in the ```test``` directory wherein each task 
 
 The training and test datasets are organized as:
 
-```
+```bash
     |--data   
     |    |--Train
     |    |    |--Deblur
@@ -90,7 +90,7 @@ The training and test datasets are organized as:
     |    |    |    |    |--rain-2.png
     |    |    |    |     ...
     |    |    |--Enhance
-    |    |    |    |--gt
+    |    |    |    |--high
     |    |    |    |    |--2.png
     |    |    |    |    |--5.png
     |    |    |    |     ...
@@ -101,13 +101,22 @@ The training and test datasets are organized as:
     |    |--test
     |    |    |--deblur
     |    |    |    |--gopro
-    |    |    |    |    |--input
+    |    |    |    |    |--blur
     |    |    |    |    |   |--GOPR0384_11_00_000001.png
     |    |    |    |    |   |--GOPR0384_11_00_000002.png
     |    |    |    |    |   ...
-    |    |    |    |    |--target
+    |    |    |    |    |--sharp
     |    |    |    |    |   |--GOPR0384_11_00_000001.png
     |    |    |    |    |   |--GOPR0384_11_00_000002.png
+    |    |    |    |    |   ...
+    |    |    |    |--hide
+    |    |    |    |    |--blur
+    |    |    |    |    |   |--1fromGOPR0950.png
+    |    |    |    |    |   |--1fromGOPR0955.png
+    |    |    |    |    |   ...
+    |    |    |    |    |--sharp
+    |    |    |    |    |   |--1fromGOPR0950.png
+    |    |    |    |    |   |--1fromGOPR0955.png
     |    |    |    |    |   ...
     |    |    |--dehaze
     |    |    |    |--input
@@ -141,14 +150,32 @@ The training and test datasets are organized as:
     |    |    |    |    |   |--1.png
     |    |    |    |    |   |--2.png
     |    |    |    |    |   ...
-    |    |    |--enhance
-    |    |    |    |--lol
+    |    |    |    |--Rain100H
     |    |    |    |    |--input
     |    |    |    |    |   |--1.png
-    |    |    |    |    |   |--22.png
+    |    |    |    |    |   |--2.png
     |    |    |    |    |   ...
     |    |    |    |    |--target
     |    |    |    |    |   |--1.png
+    |    |    |    |    |   |--2.png
+    |    |    |    |    |   ...
+    |    |    |--enhance
+    |    |    |    |--lolv1
+    |    |    |    |    |--low
+    |    |    |    |    |   |--1.png
     |    |    |    |    |   |--22.png
+    |    |    |    |    |   ...
+    |    |    |    |    |--high
+    |    |    |    |    |   |--1.png
+    |    |    |    |    |   |--22.png
+    |    |    |    |    |   ...
+    |    |    |    |--lolv2
+    |    |    |    |    |--low
+    |    |    |    |    |   |--r068812d7t.png
+    |    |    |    |    |   |--r072421a1t.png
+    |    |    |    |    |   ...
+    |    |    |    |    |--high
+    |    |    |    |    |   |--r068812d7t.png
+    |    |    |    |    |   |--r072421a1t.png
     |    |    |    |    |   ...
 ```
