@@ -1,0 +1,1 @@
+Pre-trained model to perform all-in-one blind image restoration is available [here](https://drive.google.com/drive/folders/1aS4tDST0nYuF4ZQnWGAMoW5KaAbVlLK0?usp=sharing).
