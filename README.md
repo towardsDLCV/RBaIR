@@ -31,6 +31,20 @@
 
 See [INSTALL.md](INSTALL.md) for the installation of dependencies and dataset preperation required to run this codebase.
 
+## Results
+Performance results of the RBaIR framework trained under the all-in-one setting.
+
+<details>
+<summary><strong>Three Distinct Degradations</strong> (click to expand) </summary>
+
+<img src = "assets/rbair3d.png"> 
+</details>
+<details>
+<summary><strong>Five Distinct Degradations</strong> (click to expand) </summary>
+
+<img src = "assets/rbair5d.png"> 
+</details><br>
+
 ## Acknowledgement
 
 Our code is based on the implementation of [PromptIR](https://github.com/va1shn9v/PromptIR/tree/main), [AdaIR](https://github.com/c-yn/AdaIR/tree/main) and [PIP](https://github.com/longzilicart/pip_universal). We thank their excellent works.
