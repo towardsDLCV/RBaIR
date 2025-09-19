@@ -33,6 +33,7 @@ See [INSTALL.md](INSTALL.md) for the installation of dependencies and dataset pr
 
 ## Results
 Performance results of the RBaIR framework trained under the all-in-one setting.
+The pre-trained models can be downloaded [here](https://drive.google.com/drive/folders/1aS4tDST0nYuF4ZQnWGAMoW5KaAbVlLK0?usp=sharing).
 
 <details>
 <summary><strong>Three Distinct Degradations</strong> (click to expand) </summary>
