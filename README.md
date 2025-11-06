@@ -13,7 +13,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://github.com/towardsDLCV/RBaIR" target='_blank'>ArXiv</a> •
+        • <a href="https://github.com/towardsDLCV/RBaIR" target='_blank'>Pattern Recognition</a> •
     </h4>
 </div>
 
