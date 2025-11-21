@@ -47,6 +47,13 @@ Performance results of the RBaIR framework trained under the all-in-one setting.
 
 The pre-trained models can be downloaded [here](https://drive.google.com/drive/folders/1aS4tDST0nYuF4ZQnWGAMoW5KaAbVlLK0?usp=sharing).
 
+## Citation
+If you find our work useful, please consider citing:
+
+```tex
+coming soon
+```
+
 ## Acknowledgement
 
 Our code is based on the implementation of [PromptIR](https://github.com/va1shn9v/PromptIR/tree/main), [AdaIR](https://github.com/c-yn/AdaIR/tree/main) and [PIP](https://github.com/longzilicart/pip_universal). We thank their excellent works.
