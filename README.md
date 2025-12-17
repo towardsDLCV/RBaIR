@@ -13,7 +13,7 @@
 
 <div>
     <h4 align="center">
-        • <a href="https://github.com/towardsDLCV/RBaIR" target='_blank'>Pattern Recognition</a> •
+        • <a href="https://www.sciencedirect.com/science/article/pii/S0031320325014785" target='_blank'>Pattern Recognition</a> •
     </h4>
 </div>
 
