@@ -51,7 +51,14 @@ The pre-trained models can be downloaded [here](https://drive.google.com/drive/f
 If you find our work useful, please consider citing:
 
 ```tex
-coming soon
+@article{park2025towards,
+  title={Towards Maximizing Feature Efficiency: All-in-One Image Restoration via Radial Basis Attention},
+  author={Park, Cheol-Hoon and Choi, Hyun-Duck},
+  journal={Pattern Recognition},
+  pages={112815},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
 
 ## Acknowledgement
