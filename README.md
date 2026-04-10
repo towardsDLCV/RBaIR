@@ -52,11 +52,12 @@ If you find our work useful, please consider citing:
 
 ```tex
 @article{park2025towards,
-  title={Towards Maximizing Feature Efficiency: All-in-One Image Restoration via Radial Basis Attention},
+  title={Towards maximizing feature efficiency: All-in-one image restoration via radial basis attention},
   author={Park, Cheol-Hoon and Choi, Hyun-Duck},
   journal={Pattern Recognition},
+  volume = {173},
   pages={112815},
-  year={2025},
+  year={2026},
   publisher={Elsevier}
 }
 ```
